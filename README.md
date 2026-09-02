@@ -6,7 +6,7 @@ This repository contains an end-to-end machine learning project designed to pred
 
 ## Project Pipeline & Methodology
  - Data Cleaning & Preparation: Inspected 14,999 initial employee records, verified data types, addressed missing values, and streamlined column names for clarity. Removed 3,008 duplicate rows to ensure model integrity.
- - Exploratory Data Analysis (EDA): Visualized distributions and detected outliers in employee tenure using the Interquartile Range (IQR) method (identifying an upper limit threshold of $5.5$ years). Analyzed baseline churn rates (~$16.6\%$ post-deduplication).
+ - Exploratory Data Analysis (EDA): Visualized distributions and detected outliers in employee tenure using the Interquartile Range (IQR) method (identifying an upper limit threshold of 5.5 years). Analyzed baseline churn rates (~16.6% post-deduplication).
  - Feature Engineering & Modeling Framework: Prepared features for high-performance machine learning algorithms including XGBoost, Random Forest, Decision Trees, and Logistic Regression.
  - Evaluation & Optimization: Leveraged cross-validation and hyperparameter tuning (GridSearchCV) optimized across comprehensive metrics including Precision, Recall, F1-Score, and ROC-AUC.
  

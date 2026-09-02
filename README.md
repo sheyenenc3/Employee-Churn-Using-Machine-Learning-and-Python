@@ -24,3 +24,9 @@ This repository contains an end-to-end machine learning project designed to pred
 4. Clarify overtime policies and ensure expectations around workload, time off, and compensation are clearly communicated.
 5. Facilitate discussions on work culture at both company and team levels to identify issues and improve the environment.
 6. Use a fair evaluation scale rather than tying top performance scores to extremely high monthly hours; reward efficiency and meaningful contribution instead.
+
+## Dashboard
+https://gamma.app/docs/Predicting-Employee-Turnover-Salifort-Motors-Project-t9qgg6fpda1ol3q
+
+
+

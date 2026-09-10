@@ -4,6 +4,9 @@
 
 This repository contains an end-to-end machine learning project designed to predict employee turnover at Salifort Motors. By analyzing historical employee data and performance metrics, this project builds predictive classification models to help HR leadership identify key drivers of attrition and proactively retain top talent.
 
+## Dataset
+https://drive.google.com/file/d/1IvFaid2cCFSysvCrxYYCg81LYcBASgX8/view?usp=sharing
+
 ## Project Pipeline & Methodology
  - Data Cleaning & Preparation: Inspected 14,999 initial employee records, verified data types, addressed missing values, and streamlined column names for clarity. Removed 3,008 duplicate rows to ensure model integrity.
  - Exploratory Data Analysis (EDA): Visualized distributions and detected outliers in employee tenure using the Interquartile Range (IQR) method (identifying an upper limit threshold of 5.5 years). Analyzed baseline churn rates (~16.6% post-deduplication).
